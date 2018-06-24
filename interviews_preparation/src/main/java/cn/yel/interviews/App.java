@@ -1,4 +1,4 @@
-package cn.yel.interviews_preparation;
+package cn.yel.interviews;
 
 /**
  * Hello world!

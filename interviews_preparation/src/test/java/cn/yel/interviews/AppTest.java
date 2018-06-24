@@ -1,4 +1,4 @@
-package cn.yel.interviews_preparation;
+package cn.yel.interviews;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
